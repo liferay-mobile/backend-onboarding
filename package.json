@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "backend-on-boarding",
+  "name": "mobile-on-boarding",
   "version": "0.0.0",
   "scripts": {
     "start": "electric"
