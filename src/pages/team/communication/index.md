@@ -13,11 +13,10 @@ weight: 6
 ## Channels and Tools
 - **Email**
 - **Slack:** used globally by engineering for daily conversation (workspace: `liferayeng.slack.com`).
-- **Zoom:** for team calls.
 - **Loop:** for team announcements.
 - **Jira:** for creating issues and keep track of the product progress.
 - **Github:** for versioning control and source code management.
 - **Invision:** to represent visually the interface behavior through the deliverables: workflow, breakpoints, motion and interface components.
-- **Zeppelin:** for checking design specifications to create CSS and HTML.
+- **Zeplin:** for checking design specifications to create CSS and HTML.
 
 </article>

@@ -18,13 +18,6 @@ The forms team is in charge of developing and maintaining all parts of the porta
 
 <article id="2"> 
 
-## Workflow
-Workflow is a vital element to any business because it models how companies operates. Besides that, it is a central piece to apps communication.
-The team is in charge of developing and maintaining all parts of the portal related with Workflow: Kaleo Designer, Kaleo Engine, Workflow framework and Calendar.
-</article>
- 
-<article id="3"> 
-
 ## Analytics 
 Liferay Experience Cloud is a SaaS offering to enhance digital marketing activities through insights into the activities of a company’s customers across all touchpoints in the enterprise, whether or not those touchpoints are on the Liferay platform. Experience Cloud will enable you to gather analytics on three different dimensions: about people, their interactions and their customer journeys.
 

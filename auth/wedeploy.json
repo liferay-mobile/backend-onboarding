@@ -1,0 +1,4 @@
+{
+    "id": "mauth",
+    "image": "wedeploy/auth:2.7.0"
+  }

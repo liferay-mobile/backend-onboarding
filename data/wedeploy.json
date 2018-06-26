@@ -1,0 +1,7 @@
+{
+    "id": "mdata",
+    "image": "wedeploy/data:2.7.0",
+    "env": {
+        "WEDEPLOY_ENGINE_AUTH_SERVER_IP": "mauth"
+    }
+  }

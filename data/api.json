@@ -1,0 +1,18 @@
+[
+    {
+        "path": "/keychain/*",
+        "data": true,
+        "method": ["GET"],
+        "auth": {
+            "validator": "$auth != null && $auth.email.contains('@domain.com')"
+        }
+    },
+    {
+        "path": "/keychain/*",
+        "data": true,
+        "method": ["PATCH", "PUT", "DELETE"],
+        "auth": {
+            "validator": "false"
+        }
+    }
+]
