@@ -28,7 +28,7 @@ We use the bintray to send versions to JCenter and to Maven Central. You need to
 After this, you need to create a ```local.properties``` file on root of project, using your bintray user and your API key.
 ```
 bintray.user=your_bintray_user
-bintray.apiKey=xxxxxxxxxxxxxxxxxxxxxxxxxxx
+bintray.apikey=xxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 Your API Key can be found here.

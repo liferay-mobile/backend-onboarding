@@ -1,6 +1,6 @@
 ---
 title: "Routine"
-description: "The backend team routine consists of daily work combined with strategic management to achieve the expected results. This strategic management is based in effective meetings, balanced workload and collaborative team spirit. This section will describe the ticket management and all meetings."
+description: "The mobile team routine consists of daily work combined with strategic management to achieve the expected results. This strategic management is based in effective meetings, balanced workload and collaborative team spirit. This section will describe the ticket management and all meetings."
 layout: "team"
 icon: "calendar"
 weight: 5
@@ -34,7 +34,7 @@ Every work has a different workflow from the creation of the ticket until the de
 3. **Ready for development:** List of stories ready to be developed.
 4. **Selected for development:** List of stories committed to be developed in the next 2 weeks.
 5. **In Development:** Engineers start working on the story.
-6. **In Review:** Once development is completed, peer review, QA review and validation and, Brian’s review.
+6. **In Review:** Once development is completed, peer review
 7. **Documentation:** Does the story need documentation? Generate a draft!
 8. **Design Review:** Product Designer make sure that the story requirements were developed according to the guidelines provided.
 9. **PM Review:** Product Manager validates the use cases.

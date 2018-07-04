@@ -33,15 +33,15 @@ After this, you need to open the link sent to ```liferay.mobile@gmail.com```. No
 To release a new version of core of Analytics, it is necessary from root folder, increase the version on ```Liferay-iOS-SDK.podspec``` in ```s.version``` property, commit everything.
 
 - Create a tag with the version name
-```
-git tag "X.X.X"
-```
+    ```
+    git tag "X.X.X"
+    ```
 - Push the tag to remote
-```
-git push --tags
-```
+    ```
+    git push --tags
+    ```
 - Upload the new version to Cocoapods
-```ruby
-pod trunk liferay-analytics-ios.podspec
-```
+    ```ruby
+    pod trunk push Liferay-iOS-SDK.podspec
+    ```
 </article>

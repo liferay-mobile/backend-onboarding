@@ -37,30 +37,30 @@ After this, you need to open the link sent to ```liferay.mobile@gmail.com```. No
 To release a new version of core of Analytics, it is necessary from root folder, increase the version on ```liferay-analytics-ios.podspec``` in ```s.version``` property, commit everything.
 
 - Create a tag with the version name
-```
-git tag "X.X.X"
-```
+    ```
+    git tag "X.X.X"
+    ```
 - Push the tag to remote
-```
-git push --tags
-```
+    ```
+    git push --tags
+    ```
 - Upload the new version to Cocoapods
-```ruby
-pod trunk liferay-analytics-ios.podspec
-```
+    ```ruby
+    pod trunk push liferay-analytics-ios.podspec
+    ```
 #### Forms plugin
 From ```/Plugins/liferay-analytics-forms``` folder, it is necessary to increase the version on ```liferay-analytics-forms-ios.podspec``` in ```s.version``` property, commit everything.
 
 - Create a tag with the version name
-```
-git tag "X.X.X"
-```
+    ```
+    git tag "X.X.X"
+    ```
 - Push the tag to remote
-```
-git push --tags
-```
+    ```
+    git push --tags
+    ```
 - Upload the new version to Cocoapods
-```ruby
-liferay-analytics-forms-ios.podspec
-```
+    ```ruby
+    pod trunk push liferay-analytics-forms-ios.podspec
+    ```
 </article>
